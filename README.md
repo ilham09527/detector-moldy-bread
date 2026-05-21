@@ -194,11 +194,11 @@ project-folder/
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Author Team
 
-•dimas ardiyansyah
-•rizwan fahreza
-•reyhan nirhana
-•zaidan zia ulhaq
-•ilham nur salam
+- •dimas ardiyansyah
+- •rizwan fahreza
+- •reyhan nirhana
+- •zaidan zia ulhaq
+- •ilham nur salam
 
