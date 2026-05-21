@@ -1,6 +1,9 @@
 # 🍞 MoldyBread AI: Edge-Native Moldy Bread Detection
 
-ONNX Runtime • YOLO11n • JavaScript • License
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-WebAssembly-blue?style=for-the-badge&logo=onnx)
+![YOLO11n](https://img.shields.io/badge/Model-YOLO11n-00FFFF?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 MoldyBread AI is a zero-latency, fully client-side computer vision system designed to detect moldy or spoiled bread in real time. By leveraging WebAssembly (WASM) and ONNX Runtime Web, this system runs a YOLO11n object detection model directly inside the browser—without requiring cloud servers, APIs, or backend processing.
 
@@ -54,7 +57,7 @@ Dataset images were annotated and exported in YOLO format.
 
 The training process was performed using a custom YOLO training workflow designed for rapid experimentation and deployment.
 
-🔗 **[Access the YOLO Trainer (Google Colab)](https://colab.research.google.com/drive/1Iv1yoEpJ1GfXf5zGnmgV4_hbMj6v6Q2o?usp=sharing)**
+🔗 **[Access the YOLO Trainer (Google Colab)](https://colab.research.google.com/drive/1_NNXV5pG9PKC7TkE6M_a0Jxq_S4wMdCz)**
 ## Evaluation Metrics
 
 | Metric | Score |
